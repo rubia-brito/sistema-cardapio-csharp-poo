@@ -27,14 +27,6 @@ O foco desta versão foi aprimorar a estrutura do código, tornando-o mais modul
 
 ---
 
-## 📸 Demonstração do Sistema
-
-![Sistema de Cardápio](images/sistema-cardapio.png)
-
-> 💡 Em breve: imagens separadas mostrando cada etapa do sistema.
-
----
-
 ## ▶️ Como Executar
 1. Faça o clone do repositório  
 2. Abra o projeto no Visual Studio ou outra IDE de sua preferência  
@@ -55,22 +47,22 @@ Esta versão 2 representa uma evolução significativa do projeto original. A mi
 ## 📸 Demonstração do Sistema
 
 ### 🧭 Menu Principal
-![Menu Principal](images/menu-principal.png)
+![Menu Principal](imagens/menu-principal.png)
 
 ### 🍔 Menu de Lanches
-![Menu Lanches](images/menu-lanches.png)
+![Menu Lanches](imagens/menu-lanches.png)
 
 ### 📊 Resumo de Lanches
-![Resumo Lanches](images/resumo-lanches.png)
+![Resumo Lanches](imagens/resumo-lanches.png)
 
 ### ⚙️ Ajuste de Pedido
-![Ajuste Pedido](images/ajuste-pedidofinal.png)
+![Ajuste Pedido](imagens/ajuste-pedidofinal.png)
 
 ### ⚙️ Remoção de Item
-![Remover item](images/remocao-item.png)
+![Remover item](imagens/remocao-item.png)
 
 ### 🧾 Resumo Final
-![Resumo Final](images/resumo-final.png)
+![Resumo Final](imagens/resumo-final.png)
 
 ---
 Desenvolvido por Rúbia  
